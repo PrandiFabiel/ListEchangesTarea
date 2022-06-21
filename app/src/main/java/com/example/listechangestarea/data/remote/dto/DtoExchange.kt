@@ -1,6 +1,6 @@
 package com.example.listechangestarea.data.remote.dto
 
-data class DtoEnchage(
+data class DtoExchange(
     val id: String = "",
     val name: String = "",
     val description: String = "",
