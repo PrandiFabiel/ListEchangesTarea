@@ -1,4 +1,4 @@
-package com.example.listechangestarea.ui.Screens
+package com.example.listechangestarea.ui.screens
 
 import com.example.listechangestarea.data.remote.dto.DtoExchange
 
